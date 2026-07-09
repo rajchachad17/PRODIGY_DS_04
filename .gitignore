@@ -1,9 +1,9 @@
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+anaconda_projects/
 
 # Large/raw dataset
 twitter_training.csv
-clean_data.csv
 
 # Python
 __pycache__/
