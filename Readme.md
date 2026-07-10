@@ -18,6 +18,14 @@ PRODIGY_DS_04/
 
 ---
 
+## 📂 Dataset
+
+**Source:** Kaggle
+
+**Dataset Link:** https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
+
+---
+
 ## Tools & Libraries
 - Python
 - Pandas
