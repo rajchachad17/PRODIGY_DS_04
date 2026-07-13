@@ -10,7 +10,7 @@ Analyze and visualize sentiment patterns in social media data to understand publ
 ```
 PRODIGY_DS_04/
 │
-├── twitter_training.csv                          # Dataset
+├── twitter_training.csv                          # Dataset (not tracked in git)
 ├── Task_04.ipynb                                 # Main Python notebook
 ├── assets/                                       # Exported chart images
 └── README.md
